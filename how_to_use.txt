@@ -1,0 +1,29 @@
+#create or edite your own templets as it suit you 
+
+for all blocks attribute 
+the TAGNAME is the key refrence 
+the DESC2 is the value will be changed
+
+## open the Signals.xlsx and fill the signals data
+
+the 1st row is the tag names for the signal  keep signal_name and DWG (dont chage them)
+
+fill all the data
+note  dwg for the templete files
+
+## autoCad create new project 
+
+#open generate_ld.exe
+
+enter the distination folder path and the template folder path
+
+##autocad add new drawing (add all the drawings)
+
+##autocad export xls file for all the tags
+
+##opene  update_signal_data.exe
+
+enter the full xls file location you exported from autocad as the example 
+"C:\Users\mahmoud.hamada\Desktop\Signals.xls"   
+
+###autocad import from xls file 
